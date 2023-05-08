@@ -14,11 +14,6 @@ A calculadora foi um projeto executado como atividade do curso front-end da Ebac
 
 - HTML
 - CSS
-
-
-
-# back end
-
 - JavaScript
 - Vue
 
